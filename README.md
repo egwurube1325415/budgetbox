@@ -4,7 +4,7 @@
 Budgetbox, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
-Check out [FRONTEND LIVE DEMO](https://budget-frontend-prod.herokuapp.com//) here!!
+Check out [FRONTEND LIVE DEMO](https://budget-frontend-prod.herokuapp.com/) here!!
 
 Check out [API LIVE DEMO](https://budgetbox-backend-prod.herokuapp.com/) here!!
 
