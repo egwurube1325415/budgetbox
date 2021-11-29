@@ -20,7 +20,7 @@ Check out [API LIVE DEMO](https://budgetbox-backend-prod.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/egwurube1325415/Jojos_Dinner/
+git clone https://github.com/egwurube1325415/budgetbox
 ```
 
 2. Backend setting
